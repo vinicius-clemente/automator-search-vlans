@@ -18,7 +18,7 @@ Ferramenta de automação desenvolvida em Python para auditoria e varredura de V
 
 1. Clone o repositório:
 
-       git clone https://github.com/vinicius-master/automator-search-vlans.git
+       git clone https://github.com/vinicius-clemente/automator-search-vlans.git
        cd automator-search-vlans
 
 2. Instale as dependências:
